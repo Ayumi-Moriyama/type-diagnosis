@@ -3,16 +3,256 @@
         "gender": "male",
         "season": "spring",
         "bloodType": "a",
-        "type": "男性春A型",
-        "title": "春の男性A型",
-        "description": "あなたは春の男性A型です。"
+        "type": "アラジン",
+        "title": "春のプリンス - アラジン",
+        "description": "あなたは好奇心旺盛で自由を愛する冒険家。夢を信じ、困難を乗り越える力を持っています。"
+    },
+    {
+        "gender": "male",
+        "season": "spring",
+        "bloodType": "b",
+        "type": "フリン・ライダー",
+        "title": "春のプリンス - フリン・ライダー",
+        "description": "あなたは機転が利き、ユーモアのセンスも抜群。カリスマ性があり、多くの人を惹きつける魅力を持っています。"
+    },
+    {
+        "gender": "male",
+        "season": "spring",
+        "bloodType": "o",
+        "type": "エリック",
+        "title": "春のプリンス - エリック",
+        "description": "あなたは情熱的でロマンチックな性格。仲間を大切にし、愛する人を全力で守る頼れる存在です。"
+    },
+    {
+        "gender": "male",
+        "season": "spring",
+        "bloodType": "ab",
+        "type": "ピーター・パン",
+        "title": "春のプリンス - ピーター・パン",
+        "description": "あなたは無邪気で自由な精神を持ち、楽しいことが大好き。夢と冒険を求め続けます。"
+    },
+    {
+        "gender": "male",
+        "season": "summer",
+        "bloodType": "a",
+        "type": "シンバ",
+        "title": "夏のプリンス - シンバ",
+        "description": "あなたは勇敢でリーダーシップに優れています。困難を乗り越え、成長していく強さを持っています。"
+    },
+    {
+        "gender": "male",
+        "season": "summer",
+        "bloodType": "b",
+        "type": "ターザン",
+        "title": "夏のプリンス - ターザン",
+        "description": "あなたは野性的でたくましく、自然を愛する心を持っています。仲間を大切にし、強い絆を築きます。"
+    },
+    {
+        "gender": "male",
+        "season": "summer",
+        "bloodType": "o",
+        "type": "マウイ",
+        "title": "夏のプリンス - マウイ",
+        "description": "あなたはエネルギッシュでユーモアにあふれ、みんなを楽しませる存在。大胆なチャレンジが得意です。"
+    },
+    {
+        "gender": "male",
+        "season": "summer",
+        "bloodType": "ab",
+        "type": "クリストフ",
+        "title": "夏のプリンス - クリストフ",
+        "description": "あなたは誠実で努力家。素朴で優しい性格の持ち主で、仲間や大切な人を何よりも大事にします。"
+    },
+    {
+        "gender": "male",
+        "season": "autumn",
+        "bloodType": "a",
+        "type": "ジョン・スミス",
+        "title": "秋のプリンス - ジョン・スミス",
+        "description": "あなたは探求心旺盛で、新しい世界に飛び込む勇気を持っています。自由を愛し、冒険を楽しむタイプです。"
+    },
+    {
+        "gender": "male",
+        "season": "autumn",
+        "bloodType": "b",
+        "type": "ビースト",
+        "title": "秋のプリンス - ビースト",
+        "description": "あなたは一見クールですが、内に熱い情熱を秘めています。本当に大切なものを守るために強くなれる人です。"
+    },
+    {
+        "gender": "male",
+        "season": "autumn",
+        "bloodType": "o",
+        "type": "ヘラクレス",
+        "title": "秋のプリンス - ヘラクレス",
+        "description": "あなたは努力を惜しまず、困難に立ち向かう勇気を持っています。愛する人のために戦う優しさも兼ね備えています。"
+    },
+    {
+        "gender": "male",
+        "season": "autumn",
+        "bloodType": "ab",
+        "type": "ハデス",
+        "title": "秋のプリンス - ハデス",
+        "description": "あなたは冷静で頭脳明晰、計画的な行動が得意。ユーモアのセンスもあり、場を盛り上げるのが得意です。"
+    },
+    {
+        "gender": "male",
+        "season": "winter",
+        "bloodType": "a",
+        "type": "エルサ",
+        "title": "冬のプリンス - エルサ",
+        "description": "あなたは知的で冷静、しかし内に強い情熱を秘めています。自立心が強く、周囲に影響を与えるカリスマ性を持っています。"
+    },
+    {
+        "gender": "male",
+        "season": "winter",
+        "bloodType": "b",
+        "type": "オラフ",
+        "title": "冬のプリンス - オラフ",
+        "description": "あなたは明るく無邪気で、周囲を笑顔にする天性の才能を持っています。楽観的でポジティブな性格です。"
+    },
+    {
+        "gender": "male",
+        "season": "winter",
+        "bloodType": "o",
+        "type": "スヴェン",
+        "title": "冬のプリンス - スヴェン",
+        "description": "あなたは忠実で心優しく、大切な人を全力で支える存在。仲間思いで、絆をとても大切にします。"
+    },
+    {
+        "gender": "male",
+        "season": "winter",
+        "bloodType": "ab",
+        "type": "ジャック・スケリントン",
+        "title": "冬のプリンス - ジャック・スケリントン",
+        "description": "あなたは独創的で、常に新しいことに挑戦する精神を持っています。個性を大切にし、ユニークな魅力を発揮します。"
+    },
+    {
+        "gender": "female",
+        "season": "spring",
+        "bloodType": "a",
+        "type": "ベル",
+        "title": "春のプリンセス - ベル",
+        "description": "あなたは知的で独立心が強く、自分の信念を貫きます。困難な状況でも諦めず、周囲を明るく照らします。"
+    },
+    {
+        "gender": "female",
+        "season": "spring",
+        "bloodType": "b",
+        "type": "ラプンツェル",
+        "title": "春のプリンセス - ラプンツェル",
+        "description": "あなたは好奇心旺盛で、自由を求める冒険心を持っています。夢を叶えるために努力を惜しみません。"
+    },
+    {
+        "gender": "female",
+        "season": "spring",
+        "bloodType": "o",
+        "type": "ポカホンタス",
+        "title": "春のプリンセス - ポカホンタス",
+        "description": "あなたは自然と調和し、自由を愛する精神の持ち主。周囲を思いやる優しさと強い意志を持っています。"
+    },
+    {
+        "gender": "female",
+        "season": "spring",
+        "bloodType": "ab",
+        "type": "ウェンディ",
+        "title": "春のプリンセス - ウェンディ",
+        "description": "あなたは想像力豊かで優しい心の持ち主。夢を大切にしながらも、しっかりと現実を見据えています。"
+    },
+    {
+        "gender": "female",
+        "season": "summer",
+        "bloodType": "a",
+        "type": "ジャスミン",
+        "title": "夏のプリンセス - ジャスミン",
+        "description": "あなたは自由を求め、強い意志を持っています。自分の力で未来を切り開く勇敢なプリンセスです。"
     },
     {
         "gender": "female",
         "season": "summer",
         "bloodType": "b",
-        "type": "女性夏B型",
-        "title": "夏の女性B型",
-        "description": "あなたは夏の女性B型です。"
+        "type": "アリエル",
+        "title": "夏のプリンセス - アリエル",
+        "description": "あなたは好奇心旺盛で、夢に向かって突き進む情熱を持っています。自分の気持ちに正直な性格です。"
+    },
+    {
+        "gender": "female",
+        "season": "summer",
+        "bloodType": "o",
+        "type": "ナラ",
+        "title": "夏のプリンセス - ナラ",
+        "description": "あなたは自立心が強く、冷静な判断力を持つ頼れる存在。仲間を支え、共に成長することを大切にします。"
+    },
+    {
+        "gender": "female",
+        "season": "summer",
+        "bloodType": "ab",
+        "type": "ムーラン",
+        "title": "夏のプリンセス - ムーラン",
+        "description": "あなたは勇敢で芯が強く、仲間を大切にします。どんな困難にも立ち向かう意志の強さを持っています。"
+    },
+    {
+        "gender": "female",
+        "season": "autumn",
+        "bloodType": "a",
+        "type": "シンデレラ",
+        "title": "秋のプリンセス - シンデレラ",
+        "description": "あなたは忍耐強く、努力を惜しまない誠実な心の持ち主。夢を信じ続け、最後には成功をつかみます。"
+    },
+    {
+        "gender": "female",
+        "season": "autumn",
+        "bloodType": "b",
+        "type": "メグ",
+        "title": "秋のプリンセス - メグ",
+        "description": "あなたは聡明で機転が利く魅力的な人物。自立心が強く、簡単には流されない強さを持っています。"
+    },
+    {
+        "gender": "female",
+        "season": "autumn",
+        "bloodType": "o",
+        "type": "エスメラルダ",
+        "title": "秋のプリンセス - エスメラルダ",
+        "description": "あなたは情熱的で正義感が強い性格。周囲の人々を大切にし、困っている人を助けることを惜しみません。"
+    },
+    {
+        "gender": "female",
+        "season": "autumn",
+        "bloodType": "ab",
+        "type": "ティアナ",
+        "title": "秋のプリンセス - ティアナ",
+        "description": "あなたは努力家で実直な性格。自分の夢に向かって努力を惜しまず、一歩ずつ着実に成功をつかみます。"
+    },
+    {
+        "gender": "female",
+        "season": "winter",
+        "bloodType": "a",
+        "type": "エルサ",
+        "title": "冬のプリンセス - エルサ",
+        "description": "あなたは知的で冷静、しかし内に強い情熱を秘めています。自立心が強く、周囲に影響を与えるカリスマ性を持っています。"
+    },
+    {
+        "gender": "female",
+        "season": "winter",
+        "bloodType": "b",
+        "type": "アナ",
+        "title": "冬のプリンセス - アナ",
+        "description": "あなたは明るく活発で、ポジティブなエネルギーを持つ人。愛する人を大切にし、周囲を笑顔にします。"
+    },
+    {
+        "gender": "female",
+        "season": "winter",
+        "bloodType": "o",
+        "type": "白雪姫",
+        "title": "冬のプリンセス - 白雪姫",
+        "description": "あなたは純粋で優しく、みんなに愛される存在。素直な心を持ち、周囲に幸せを届ける力があります。"
+    },
+    {
+        "gender": "female",
+        "season": "winter",
+        "bloodType": "ab",
+        "type": "メリダ",
+        "title": "冬のプリンセス - メリダ",
+        "description": "あなたは強い意志を持ち、自分の道を切り開く力があります。困難にも負けず、挑戦し続ける勇敢な心を持っています。"
     }
 ]

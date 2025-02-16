@@ -9,3 +9,19 @@
 <script setup>
 
 </script>
+
+<style scoped>
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    text-align: center;
+    margin: 10px 20px;
+}
+
+
+</style>

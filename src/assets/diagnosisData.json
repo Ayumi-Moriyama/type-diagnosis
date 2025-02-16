@@ -1,0 +1,18 @@
+[
+    {
+        "gender": "male",
+        "season": "spring",
+        "bloodType": "a",
+        "type": "男性春A型",
+        "title": "春の男性A型",
+        "description": "あなたは春の男性A型です。"
+    },
+    {
+        "gender": "female",
+        "season": "summer",
+        "bloodType": "b",
+        "type": "女性夏B型",
+        "title": "夏の女性B型",
+        "description": "あなたは夏の女性B型です。"
+    }
+]
